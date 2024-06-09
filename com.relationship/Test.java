@@ -1,3 +1,5 @@
+package Hibernate_tut.com.relationship;
+
 import java.util.ArrayList;
 import java.util.List;
 

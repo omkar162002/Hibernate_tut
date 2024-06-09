@@ -1,4 +1,4 @@
-package com.relationship;
+package Hibernate_tut.com.relationship;
 
 import java.util.List;
 
